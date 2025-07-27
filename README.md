@@ -6,9 +6,9 @@ I'm Teng Yi Ong. Welcome to my GitHub portfolio!
 You can find a selection of interesting projects in the field I'm eager to explore, alongside with some university courseworks/projects that I enjoyed and wanted to share.💡 
 
 ## 🚀 About Me
-<table style="width:100%; border:none;">
+<table style="border:none;">
   <tr>
-    <td style="width:65%">
+    <td style="border:none;">
         <ul>
             <li>🎓 Final Year student at the University of Nottingham</li>
             <li>🔥 Passionate and interested in: 
@@ -20,18 +20,16 @@ You can find a selection of interesting projects in the field I'm eager to explo
             </li>
             <li>🌱 Continuously learning and exploring new technologies</li>
     </td>
-    <td style="width:35%">
-      <img src="src/assets/octocat.png" alt="Octocat" />
+    <td style="border:none;">
+      <img src="src/assets/octocat.png" width=200px alt="Octocat" />
     </td>
   </tr>
 </table>
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TYONG2709&show_icons=true&hide_border=true&theme=tokyonight" alt="TYONG2709's GitHub Stats" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=TYONG2709&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=TYONG2709&show_icons=true&hide_border=true&theme=tokyonight" height=170px alt="TYONG2709's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=TYONG2709&hide_border=true&theme=tokyonight" height=170px alt="GitHub Streak" />
 </p>
 
 ## 👩🏻‍💻 Modules I've Learned
@@ -57,17 +55,10 @@ Modules I found it useful from the university:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYONG2709&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </p>
 
-💻 Other Programming Languages:
-- Python, JavaScript, Haskell, TypeScript, HTML, CSS
-
-📈 Data Analysis & Visualization: 
-- Jupyter Notebook, pandas, matplotlib, scikit-learn
-
-🛢️ Databases: 
-- SQL, Supabase
-
-☁️ Cloud Deployment: 
-- AWS EC2 Instance
+- 💻 Other Programming Languages: Python, Haskell
+- 📈 Data Analysis & Visualization: Jupyter Notebook, pandas, matplotlib, scikit-learn
+- 🛢️ Databases: SQL, Supabase
+- ☁️ Cloud Deployment & Web Hosting: AWS EC2 Instance, Render
 
 ## 🏆 GitHub Trophies & Achievements
 <p align="center">
