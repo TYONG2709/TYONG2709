@@ -6,25 +6,12 @@ I'm Teng Yi Ong. Welcome to my GitHub portfolio!
 You can find a selection of interesting projects in the field I'm eager to explore, alongside with some university courseworks/projects that I enjoyed and wanted to share.💡 
 
 ## 🚀 About Me
-<table style="width:100%; border:none;">
-  <tr>
-    <td style="border:none;">
-        <ul>
-            <li>🎓 Final Year student at the University of Nottingham</li>
-            <li>🔥 Passionate and interested in: 
-                <ul><strong>
-                    <li>🖥️ Software Development</li>
-                    <li>📶 Data Analysis</li>
-                    <li>🤖 Machine Learning</li>
-                </strong></ul>
-            </li>
-            <li>🌱 Continuously learning and exploring new technologies</li>
-    </td>
-    <td style="border:none;">
-      <img src="src/assets/octocat.png" width=150px alt="Octocat" />
-    </td>
-  </tr>
-</table>
+- 🎓 Final Year student at the University of Nottingham
+- 🔥 Passionate and interested in: 
+  - 🖥️ Software Development
+  - 📶 Data Analysis
+  - 🤖 Machine Learning
+- 🌱 Continuously learning and exploring new technologies
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -33,9 +20,8 @@ You can find a selection of interesting projects in the field I'm eager to explo
 </p>
 
 ## 🛠️ Skills & Tech Stacks
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYONG2709&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYONG2709&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 
 - 💻 Other Programming Languages: Python, Haskell
 - 📈 Data Analysis & Visualization: Jupyter Notebook, pandas, matplotlib, scikit-learn
