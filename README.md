@@ -6,7 +6,7 @@ I'm Teng Yi Ong. Welcome to my GitHub portfolio!
 You can find a selection of interesting projects in the field I'm eager to explore, alongside with some university courseworks/projects that I enjoyed and wanted to share.💡 
 
 ## 🚀 About Me
-<table style="border:none;">
+<table style="width:100%; border:none;">
   <tr>
     <td style="border:none;">
         <ul>
@@ -21,7 +21,7 @@ You can find a selection of interesting projects in the field I'm eager to explo
             <li>🌱 Continuously learning and exploring new technologies</li>
     </td>
     <td style="border:none;">
-      <img src="src/assets/octocat.png" width=200px alt="Octocat" />
+      <img src="src/assets/octocat.png" width=150px alt="Octocat" />
     </td>
   </tr>
 </table>
@@ -32,24 +32,6 @@ You can find a selection of interesting projects in the field I'm eager to explo
   <img src="https://streak-stats.demolab.com?user=TYONG2709&hide_border=true&theme=tokyonight" height=170px alt="GitHub Streak" />
 </p>
 
-## 👩🏻‍💻 Modules I've Learned
-Modules I found it useful from the university:
-- COMP1003 Introduction to Software Engineering
-- COMP1004 Databases & Interfaces
-- COMP1006 System & Architecture
-- COMP1008 Fundamental of Artificial Intelligent
-- COMP2002 Software Engineering Group Project
-- COMP2007 Operating System & Concurrency
-- COMP2013 Developing Maintainable Software
-- COMP2054 Algorithms, Data Structure & Efficiency
-
-## 📂 Featured Projects
-- [People-Vehicle-Search](https://github.com/TYONG2709/People-Vehicle-Search) 🔍 — Databases & Interfaces project utilizing JavaScript, HTML, CSS, and TypeScript.
-- [Connect4-Haskell](https://github.com/TYONG2709/Connect4-Haskell) 🧩 — A fully Haskell-based Connect 4 game.
-- [Global-Air-Quality-Trends](https://github.com/TYONG2709/Global-Air-Quality-Trends) 🗺 — Data visualization project using Jupyter Notebook to analyze global air quality data.
-
-( -_- please bear with me, more project incoming... 🏃🏻‍♀️‍➡️)
-
 ## 🛠️ Skills & Tech Stacks
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYONG2709&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
@@ -59,6 +41,30 @@ Modules I found it useful from the university:
 - 📈 Data Analysis & Visualization: Jupyter Notebook, pandas, matplotlib, scikit-learn
 - 🛢️ Databases: SQL, Supabase
 - ☁️ Cloud Deployment & Web Hosting: AWS EC2 Instance, Render
+
+## 👩🏻‍💻 Modules I've Learned
+Modules I found it useful from the university:
+
+<table style="width:100%; border:none;">
+  <tr>
+    <td style="width:50%; border:none;"> 
+      <ul>
+        <li>COMP1003 Introduction to Software Engineering</li>
+        <li>COMP1004 Databases & Interfaces</li>
+        <li>COMP1006 System & Architecture</li>
+        <li>COMP1008 Fundamental of Artificial Intelligent</li>
+      </ul>
+    </td>
+    <td style="width:50%; border:none;">
+      <ul>
+        <li>COMP2002 Software Engineering Group Project</li>
+        <li>COMP2007 Operating System & Concurrency</li>
+        <li>COMP2013 Developing Maintainable Software</li>
+        <li>COMP2054 Algorithms, Data Structure & Efficiency</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies & Achievements
 <p align="center">
