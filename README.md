@@ -21,12 +21,21 @@ You can find a selection of interesting projects in the field I'm eager to explo
 
 ## 🛠️ Skills & Tech Stacks
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYONG2709&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-
-- 💻 Other Programming Languages: Python, Haskell
-- 📈 Data Analysis & Visualization: Jupyter Notebook, pandas, matplotlib, scikit-learn
-- 🛢️ Databases: SQL, Supabase
-- ☁️ Cloud Deployment & Web Hosting: AWS EC2 Instance, Render
+<table style="width:100%; border:none">
+  <tr>
+    <td style="align:center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TYONG2709&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+    </td>
+    <td>
+      <ul>
+        <li>💻 Other Programming Languages: Python</li>
+        <li>📈 Data Analysis & Visualization: Jupyter Notebook, pandas, matplotlib, scikit-learn</li>
+        <li>🛢️ Databases: SQL, Supabase</li>
+        <li>☁️ Cloud Deployment & Web Hosting: AWS EC2 Instance, Render</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 👩🏻‍💻 Modules I've Learned
 Modules I found it useful from the university:
